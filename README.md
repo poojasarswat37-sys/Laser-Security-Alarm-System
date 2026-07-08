@@ -64,3 +64,11 @@ The system creates a continuous light monitoring loop between a localized laser 
 3. Hook up your hardware according to the circuit layout guidelines.
 4. Upload the code to your Arduino Uno board.
 5. Open your Serial Monitor (`9600 baud`) to review real-time LDR ambient values and calibrate your threshold[cite: 1].
+
+## 📊 System Visualizations & Hardware Layout
+
+Here is the technical schematic configuration alongside the actual physical hardware prototype implementation:
+
+| 🔌 Circuit Schematic | 🛠️ Hardware Prototype |
+| :---: | :---: |
+| ![Laser Security System Schematic](schematic.png) | ![Laser Security System Prototype](prototype.png) |
