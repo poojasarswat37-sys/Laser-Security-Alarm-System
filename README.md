@@ -23,6 +23,15 @@ The system creates a continuous light monitoring loop between a localized laser 
 
 ---
 
+## 📂 Project Documentation
+
+For a comprehensive breakdown of the circuit design, component selection, testing methodologies, and final implementation, you can read the full project report here:
+
+> 📄 **[Click Here to Read the Full Project Report](./Project_Report.pdf)**
+
+
+---
+
 ## 🛠️ Bill of Materials (BOM)
 | Component | Function / Placement |
 | :--- | :--- |
