@@ -71,4 +71,4 @@ Here is the technical schematic configuration alongside the actual physical hard
 
 | 🔌 Circuit Schematic | 🛠️ Hardware Prototype |
 | :---: | :---: |
-| ![Laser Security System Schematic](schematic.png) | ![Laser Security System Prototype](prototype.png) |
+| ![Laser Security System Schematic](schematic.png) | ![Laser Security System Prototype](prototype.jpg) |
